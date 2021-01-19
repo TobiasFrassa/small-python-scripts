@@ -1,5 +1,5 @@
 # small-python-scripts
-Not much, some Python Code I wrote for fun. Will upload more later.
+Not much to say. Just some Python Code I wrote for fun. Will upload more later. The bigger project is in the futurebuilders folder here on github and was wirtten in javascript.
 
 # Replace Words in Doc Skript 
 Very useful for Texts in order to get rid of words I used too often
