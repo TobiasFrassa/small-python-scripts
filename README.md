@@ -1,7 +1,7 @@
 # Small python scripts
 Not much to say. Just some Python Code I wrote for fun. Will upload more later. The bigger project is in the futurebuilders folder here on github and was wirtten in javascript.
 
-# Replace Words in Doc Skript 
+# Replace words in doc script 
 Very useful for texts in order to get rid of words I used too often and replace them. Works also for code if you change the names of variables.
 
 # Create 9x9 field with 2 agents
